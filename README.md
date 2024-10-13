@@ -21,3 +21,6 @@ that doesn't require a checksum anymore. It was republished here for posterity.
 References: 
 * https://n64brew.dev/wiki/ROM_Header
 * https://n64brew.dev/wiki/PIF-NUS#IPL3_checksum_algorithm
+
+Derived tools:
+* http://n64dev.org/n64crc.html Derived version that supports all the CICs.
